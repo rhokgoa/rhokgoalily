@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LILY</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cityselect">Cityselect</string>
+    <string name="title_activity_dropper">Dropper</string>
+    <string name="title_activity_result">Result</string>
+</resources>
