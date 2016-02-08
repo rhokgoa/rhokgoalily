@@ -10,10 +10,10 @@ La2 = 13.012330
 Ln2 = 77.647423
 
 #Variables that contains the user credentials to access Twitter API
-access_token = "84054662-wLsnxiz98nMSoHNXOilRzvTKHI515E4fbPq7PjUYW"
-access_token_secret = "qFXS5hifgP4f6ReFlt2odoeuU52PyyUZXc0XXTNKul4Qz"
-consumer_key = "oxlsRsCtEaONABRDUz9q16jaU"
-consumer_secret = "sXcBvgoGsueZJsDpnfV1cMh5Ia8KhPPwKnhRS2iYkdgBWn034k"
+access_token = "ACCESS_TOKEN"
+access_token_secret = "TOKEN-SECRET"
+consumer_key = "CONSUMER-KEY"
+consumer_secret = "CONSUMER-SECRET"
 
 
 #This is a basic listener that just prints received tweets to stdout.
